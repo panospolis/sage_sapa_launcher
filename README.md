@@ -1,3 +1,3 @@
-# sapa_launcher
+# sage_launcher
 
-pyinstaller app.py --onefile --noconsole --name "SapaApp" --clean
+pyinstaller app.py --onefile --noconsole --name "SAGE" --clean
